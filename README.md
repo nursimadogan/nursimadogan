@@ -10,8 +10,8 @@
 
 ## 🛠️ Technologies
 
-- Java
 - C
+- Java
 - Git
 - GitHub
 
